@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00b31d0f-09b9-4923-b5c1-f4c7239af85e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="293" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aXHLBWx2nsoFAw7l7M6c6otmm4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.hits">
+    <configuration name="hits" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Hits" />
+      <module name="pagerank.main" />
+      <option name="PROGRAM_PARAMETERS" value="./res 5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="linkgraph" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="LinkGraph" />
+      <module name="pagerank.main" />
+      <option name="PROGRAM_PARAMETERS" value="./all/docs-* ./all/urls.txt ./res" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pagerank" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="PageRank" />
+      <module name="pagerank.main" />
+      <option name="PROGRAM_PARAMETERS" value="./res/part-r-00000 10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.linkgraph" />
+      <item itemvalue="Application.pagerank" />
+      <item itemvalue="Application.hits" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00b31d0f-09b9-4923-b5c1-f4c7239af85e" name="Default Changelist" comment="" />
+      <created>1586874959715</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586874959715</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="214" width="848" height="677" key="#Project_Structure" timestamp="1587057208615">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="214" width="848" height="677" key="#Project_Structure/0.27.1920.1053@0.27.1920.1053" timestamp="1587057208615" />
+    <state x="418" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587211564141">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="418" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1587211564141" />
+    <state x="768" y="265" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1587063372368">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="768" y="265" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1587063372368" />
+    <state x="692" y="338" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587073444397">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="692" y="338" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1587073444397" />
+    <state x="743" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1586875217982">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="743" y="310" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1586875217982" />
+    <state width="1874" height="278" key="GridCell.Tab.0.bottom" timestamp="1587217192367">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1587217192367" />
+    <state width="1874" height="278" key="GridCell.Tab.0.center" timestamp="1587217192367">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1587217192367" />
+    <state width="1874" height="278" key="GridCell.Tab.0.left" timestamp="1587217192367">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1587217192367" />
+    <state width="1874" height="278" key="GridCell.Tab.0.right" timestamp="1587217192367">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1587217192367" />
+    <state width="1874" height="344" key="GridCell.Tab.1.bottom" timestamp="1587137964439">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="344" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1587137964439" />
+    <state width="1874" height="344" key="GridCell.Tab.1.center" timestamp="1587137964438">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="344" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1587137964438" />
+    <state width="1874" height="344" key="GridCell.Tab.1.left" timestamp="1587137964438">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="344" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1587137964438" />
+    <state width="1874" height="344" key="GridCell.Tab.1.right" timestamp="1587137964438">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="344" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1587137964438" />
+    <state width="960" height="527" key="XDebugger.FullValuePopup" timestamp="1586884629751">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="960" height="527" key="XDebugger.FullValuePopup/0.27.1920.1053@0.27.1920.1053" timestamp="1586884629751" />
+    <state x="616" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1587200010246">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="616" y="380" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1587200010246" />
+    <state x="624" y="253" key="run.anything.popup" timestamp="1587128506727">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="624" y="253" key="run.anything.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1587128506727" />
+    <state x="623" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1587063165627">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="623" y="257" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1587063165627" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pagerank$hits.ic" NAME="hits Coverage Results" MODIFIED="1587077087643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
